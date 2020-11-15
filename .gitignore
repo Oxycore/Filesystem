@@ -1,0 +1,8 @@
+# ignore composer files
+composer.phar
+composer.lock
+vendor/
+
+# IDE project settings
+.idea/
+.vscode/
