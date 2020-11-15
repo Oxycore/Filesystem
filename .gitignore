@@ -1,8 +1,14 @@
+# Project Settings IDE
+.idea/
+.vscode/
+
 # ignore composer files
-composer.phar
 composer.lock
 vendor/
 
-# IDE project settings
-.idea/
-.vscode/
+# PHPUnit
+phpunit.xml
+
+# PHP DotEnv
+.env
+.env-backup
