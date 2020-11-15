@@ -1,0 +1,23 @@
+{
+    "name": "oxycore/filesystem",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duwles",
+            "email": "duwless@outlook.com"
+        }
+    ],
+
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Oxycore\\Component\\Filesystem\\": "src"
+        }
+    },
+    "autoload-dev": {},
+
+    "prefer-stable":     true,
+    "minimum-stability": "dev"
+}
